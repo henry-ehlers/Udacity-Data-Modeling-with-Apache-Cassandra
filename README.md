@@ -1,4 +1,4 @@
-# Udacity Nanodegree 'Data Engineering' - Project #2: Data-Modeling-with-Apache-Cassandra
+# Udacity Nanodegree 'Data Engineering' - Project #2: Data Modeling with Apache Cassandra
 
 ## Introduction
 
